@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Destination Iowa State</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button">Continue</string>
+    <string name="title">Welcome</string>
+    <string name="description">Held prior to the beginning of fall and spring semesters,
+        Destination Iowa State is a program designed to ease the transition to college 
+        for new Iowa State students.</string>
+    <string name="item1">DIS Check In</string>
+    <string name="item2">Center of ExCYtment</string>
+    <string name="item3">DIS Kickoff</string>
+    <string name="item4">Breakfast</string>
+    <string name="item5">Residence Hall Activity</string>
+    <string name="item6">Scavenger Hunt</string>
+    <string name="item7">Late Night at MU</string>
+    <string name="item8">Community Service</string>
+    <string name="item9">Hypnotist</string>
+    <string name="item_a">Scheman Building. 
+		Pick up your Iowa State gear before heading to The Center of ExCYtment!</string>
+    <string name="item_b">Scheman Courtyard. 
+		Your adventure will begin here where you will meet your team and enjoy a picnic dinner.</string>
+    <string name="item_c">Hilton Coliseum. 
+		Destination Iowa State Kickoff is your official welcome to the Cyclone family!</string>
+    <string name="item_d">Central Campus. 
+        Teams meet for a pancake breakfast and discuss the day\'s schedule of events.</string>
+    <string name="item_e">Houses gather to meet with their Community Advisor.</string>
+    <string name="item_f">Teams will complete a scavenger hunt all over the Iowa State campus.</string>
+    <string name="item_g">Memorial Union. 
+        Experience all the Memorial Union has to offer, inculding free food, activities, a hypnotist, and more!</string>
+    <string name="item_h">Complete a service project in your new community.</string>
+	<string name="item_i">Hilton Coliseum. 
+		SEE the show or BE the show. Michael\'s award winning show will blow your mind, temporarily of course.</string>
+
+</resources>
