@@ -9,7 +9,7 @@ public class ContentPage3 extends Activity {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 	    super.onCreate(savedInstanceState);
-	    setContentView(R.layout.schedule_activity);
+	    setContentView(R.layout.content_page3);
 	}
 
 }

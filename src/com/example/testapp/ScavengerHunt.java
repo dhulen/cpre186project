@@ -9,7 +9,7 @@ public class ScavengerHunt extends Activity {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 	    super.onCreate(savedInstanceState);
-	    setContentView(R.layout.schedule_activity);
+	    setContentView(R.layout.scavenger_hunt);
 	}
 
 }
