@@ -33,5 +33,14 @@
     <string name="item_h">Complete a service project in your new community.</string>
 	<string name="item_i">Hilton Coliseum. 
 		SEE the show or BE the show. Michael\'s award winning show will blow your mind, temporarily of course.</string>
+	
+	<string-array name="nav_drawer_items">
+        <item >Home</item>
+        <item >Find People</item>
+        <item >Photos</item>
+        <item >Communities</item>
+        <item >Pages</item>
+        <item >What\'s Hot</item>
+    </string-array>
 
 </resources>

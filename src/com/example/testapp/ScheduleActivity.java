@@ -41,7 +41,7 @@ public class ScheduleActivity extends Activity {
 	}
 	
 	public void scavengerHunt(View view){
-		Intent intent = new Intent(this, ScavengerHunt.class);
+		Intent intent = new Intent(this, MapPage.class);
 		startActivity(intent);
 	}
 	

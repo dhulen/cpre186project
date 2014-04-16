@@ -8,6 +8,9 @@
 package com.example.testapp;
 
 public final class R {
+    public static final class array {
+        public static final int nav_drawer_items=0x7f090000;
+    }
     public static final class attr {
         /** 
     The size of the ad. It must be one of BANNER, FULL_BANNER, LEADERBOARD,
@@ -265,11 +268,11 @@ containing a value of this type.
         public static final int content_page6=0x7f030006;
         public static final int content_page7=0x7f030007;
         public static final int content_page8=0x7f030008;
-        public static final int scavenger_hunt=0x7f030009;
+        public static final int map_page=0x7f030009;
         public static final int schedule_activity=0x7f03000a;
     }
     public static final class menu {
-        public static final int main=0x7f0a0000;
+        public static final int main=0x7f0b0000;
     }
     public static final class string {
         public static final int action_settings=0x7f06001b;
@@ -413,11 +416,11 @@ containing a value of this type.
     
  API 14 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f090000;
+        public static final int AppBaseTheme=0x7f0a0000;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f090001;
+        public static final int AppTheme=0x7f0a0001;
     }
     public static final class styleable {
         /** Attributes that can be used with a AdsAttrs.

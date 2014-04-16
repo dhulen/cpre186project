@@ -59,12 +59,13 @@
         </activity>
         <activity android:name="ContentPage8" >
         </activity>
-        <activity android:name="ScavengerHunt" >
+        <activity android:name="MapPage" >
         </activity>
 
         <meta-data
-            android:name="com.google.android.maps.v2.AIzaSyDJyYfOHNtiY_EhrOXGCBByfQ08TWo-ToU"
+            android:name="com.google.android.maps.v2.API_KEY"
             android:value="AIzaSyDJyYfOHNtiY_EhrOXGCBByfQ08TWo-ToU" />
+        <activity android:name="ScavengerHunt"></activity>
     </application>
 
 </manifest>
