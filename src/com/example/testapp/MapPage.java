@@ -23,7 +23,7 @@ public class MapPage extends Activity {
         
         setUpMapIfNeeded(map);
         
-        //35:6A:80:C0:A3:4A:2C:AA:8D:D1:FC:7E:1F:0B:D5:39:80:61:92:58
+        // AIzaSyDJyYfOHNtiY_EhrOXGCBByfQ08TWo-ToU
         
         map.setMapType(GoogleMap.MAP_TYPE_HYBRID);
 

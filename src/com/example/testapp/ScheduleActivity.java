@@ -4,6 +4,14 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import contentPages.ContentPage1;
+import contentPages.ContentPage2;
+import contentPages.ContentPage3;
+import contentPages.ContentPage4;
+import contentPages.ContentPage5;
+import contentPages.ContentPage6;
+import contentPages.ContentPage7;
+import contentPages.ContentPage8;
 
 public class ScheduleActivity extends Activity {
 
@@ -12,7 +20,6 @@ public class ScheduleActivity extends Activity {
 	public void onCreate(Bundle savedInstanceState) {
 	    super.onCreate(savedInstanceState);
 	    setContentView(R.layout.schedule_activity);
-	    
 	}
 	
 	public void contentPage1(View view){
@@ -41,7 +48,7 @@ public class ScheduleActivity extends Activity {
 	}
 	
 	public void scavengerHunt(View view){
-		Intent intent = new Intent(this, MapPage.class);
+		Intent intent = new Intent(this, ScavengerHunt.class);
 		startActivity(intent);
 	}
 	

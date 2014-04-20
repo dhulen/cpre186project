@@ -31,16 +31,36 @@
     <string name="item_g">Memorial Union. 
         Experience all the Memorial Union has to offer, inculding free food, activities, a hypnotist, and more!</string>
     <string name="item_h">Complete a service project in your new community.</string>
-	<string name="item_i">Hilton Coliseum. 
+    <string name="item_i">Hilton Coliseum. 
 		SEE the show or BE the show. Michael\'s award winning show will blow your mind, temporarily of course.</string>
-	
-	<string-array name="nav_drawer_items">
-        <item >Home</item>
-        <item >Find People</item>
-        <item >Photos</item>
-        <item >Communities</item>
-        <item >Pages</item>
-        <item >What\'s Hot</item>
-    </string-array>
+		
+    <string name="scavengerDescription1">Welcome to the Destination Iowa State Scavenger Hunt!  This awesome adventure
+         will take you all over our campus.</string>
+    <string name="scavengerDescription2">Select any of the locations above to discover where they lie on our
+        beautiful Iowa State Campus.</string>
+    <string name="scavengerTitle">Scavenger Hunt</string>
+    
+    <string name="hunt1title">Memorial Union</string>
+    <string name="hunt1text">Go to the Memorial Union and take a picture by the fountain</string>
+    <string name="hunt2title">Gerdin</string>
+    <string name="hunt2text">Go to the Gerdin Business Building and take a picture inside the Business Cafe</string>
+    <string name="hunt3title">Marston Water Tower</string>
+    <string name="hunt3text">Go to the Marston Water Tower and take a picture underneath it</string>
+    <string name="hunt4title">Catt Hall</string>
+    <string name="hunt4text">Go to Catt Hall and take a picture on the stairs</string>
+    <string name="hunt5title">Beardshear</string>
+    <string name="hunt5text">Go to Beardshear Hall and take a picture outside the President\'s Office</string>
+    <string name="hunt6title">Parks Library</string>
+    <string name="hunt6text">Go to Parks Library and take a picture in Bookends Cafe</string>
+    <string name="hunt7title">Hoover Hall</string>
+    <string name="hunt7text">Go to Hoover Hall and take a picture inside the Kent-Stein Foundation Auditorium</string>
+    <string name="hunt8title">Enrollment Services</string>
+    <string name="hunt8text">Go to the Enrollment Services building and take a picture by the doors</string>
+    <string name="hunt9title">Lebaron Hall</string>
+    <string name="hunt9text">Go to Lebaron Hall and take a picture by the front doors</string>
+    
+    <string name="imageDesc">Image</string>
+    
+    <string name="content1">DIS Check In</string>
 
 </resources>

@@ -4,14 +4,6 @@
     android:versionCode="1"
     android:versionName="1.0" >
 
-    <uses-sdk
-        android:minSdkVersion="14"
-        android:targetSdkVersion="19" />
-    
-    <uses-feature
-        android:glEsVersion="0x00020000"
-        android:required="true"/>
-
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -23,6 +15,10 @@
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
@@ -31,6 +27,9 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyDJyYfOHNtiY_EhrOXGCBByfQ08TWo-ToU" />
 
         <activity
             android:name="com.example.testapp.MainActivity"
@@ -43,29 +42,44 @@
         </activity>
         <activity android:name="ScheduleActivity" >
         </activity>
-        <activity android:name="ContentPage1" >
-        </activity>
-        <activity android:name="ContentPage2" >
-        </activity>
-        <activity android:name="ContentPage3" >
-        </activity>
-        <activity android:name="ContentPage4" >
-        </activity>
-        <activity android:name="ContentPage5" >
-        </activity>
-        <activity android:name="ContentPage6" >
-        </activity>
-        <activity android:name="ContentPage7" >
-        </activity>
-        <activity android:name="ContentPage8" >
-        </activity>
         <activity android:name="MapPage" >
         </activity>
-
-        <meta-data
-            android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyDJyYfOHNtiY_EhrOXGCBByfQ08TWo-ToU" />
-        <activity android:name="ScavengerHunt"></activity>
+        <activity android:name="ScavengerHunt" >
+        </activity>
+        <activity android:name="contentPages.ContentPage1" >
+        </activity>
+        <activity android:name="contentPages.ContentPage2" >
+        </activity>
+        <activity android:name="contentPages.ContentPage3" >
+        </activity>
+        <activity android:name="contentPages.ContentPage4" >
+        </activity>
+        <activity android:name="contentPages.ContentPage5" >
+        </activity>
+        <activity android:name="contentPages.ContentPage6" >
+        </activity>
+        <activity android:name="contentPages.ContentPage7" >
+        </activity>
+        <activity android:name="contentPages.ContentPage8" >
+        </activity>
+        <activity android:name="scavengerHunt.Hunt1" >
+        </activity>
+        <activity android:name="scavengerHunt.Hunt2" >
+        </activity>
+        <activity android:name="scavengerHunt.Hunt3" >
+        </activity>
+        <activity android:name="scavengerHunt.Hunt4" >
+        </activity>
+        <activity android:name="scavengerHunt.Hunt5" >
+        </activity>
+        <activity android:name="scavengerHunt.Hunt6" >
+        </activity>
+        <activity android:name="scavengerHunt.Hunt7" >
+        </activity>
+        <activity android:name="scavengerHunt.Hunt8" >
+        </activity>
+        <activity android:name="scavengerHunt.Hunt9" >
+        </activity>
     </application>
 
 </manifest>
